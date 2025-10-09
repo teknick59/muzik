@@ -1,10 +1,9 @@
 name: Safe Müzik Güncelleme
 
 on:
-workflow_dispatch:          # Manuel çalıştırma
   schedule:
     - cron: '0 */12 * * *'   # 12 saatte bir çalışır
-  
+  workflow_dispatch:          # Manuel çalıştırma
 
 permissions:
   contents: write
