@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>Maroon 5, Rihanna, The Weeknd, Dua Lipa, Ed Sheeran, Bruno Mars, Adele 💥 Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/J9rbdqpLYpk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>J9rbdqpLYpk</src>
-	</media>
-	<media>
 		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
 		<thumb>https://i.ytimg.com/vi/V6E-AdLtc1E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -29,6 +23,24 @@
 		<thumb>https://i.ytimg.com/vi/h8nzB2B6N7Q/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>h8nzB2B6N7Q</src>
+	</media>
+	<media>
+		<title>Ed Sheeran, Dua Lipa, Maroon 5, Rihanna, Adele, The Weeknd, Bruno Mars ✨ Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/03RfJ0U6pUs/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>03RfJ0U6pUs</src>
+	</media>
+	<media>
+		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
+		<thumb>https://i.ytimg.com/vi/J-m1wikfV04/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>J-m1wikfV04</src>
+	</media>
+	<media>
+		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
+		<thumb>https://i.ytimg.com/vi/px5k-x30YdQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>px5k-x30YdQ</src>
 	</media>
 	<media>
 		<title>&amp;quot;Marmara FM&amp;quot; Canlı Yayın</title>
@@ -175,10 +187,16 @@
 		<src>U9Rb5VnKB4U</src>
 	</media>
 	<media>
-		<title>New Year Music Mix 2026 ♫ Best Music 2026 Party Mix ♫ Remixes of Popular Songs</title>
-		<thumb>https://i.ytimg.com/vi/n4fRmNlOidM/hqdefault_live.jpg</thumb>
+		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/1JxlbFKFmP4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>n4fRmNlOidM</src>
+		<src>1JxlbFKFmP4</src>
+	</media>
+	<media>
+		<title>Summer Mix 2026 🍓 Best Popular Songs 2026 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/Or_rB0v918Q/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Or_rB0v918Q</src>
 	</media>
 	<media>
 		<title>Platonik Fm - En Güzel Arabesk ve Damar Şarkılar - Canlı Radyo Dinle - Radyo Dinle - Arabesk Damar</title>
