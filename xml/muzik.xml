@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
-		<thumb>https://i.ytimg.com/vi/cPn7if6YTgU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>cPn7if6YTgU</src>
-	</media>
-	<media>
 		<title>Ed Sheeran, Dua Lipa, Maroon 5, Rihanna, Adele, The Weeknd, Bruno Mars ✨ Billboard Top 50 This Week</title>
 		<thumb>https://i.ytimg.com/vi/W4nIXy7m_WU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -29,6 +23,24 @@
 		<thumb>https://i.ytimg.com/vi/UafXUL1tnzc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>UafXUL1tnzc</src>
+	</media>
+	<media>
+		<title>Top Hits 2026✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
+		<thumb>https://i.ytimg.com/vi/7awtxaT2Wj0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>7awtxaT2Wj0</src>
+	</media>
+	<media>
+		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
+		<thumb>https://i.ytimg.com/vi/rcmCFO8JTkk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rcmCFO8JTkk</src>
+	</media>
+	<media>
+		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
+		<thumb>https://i.ytimg.com/vi/nZ10ocIbp4g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>nZ10ocIbp4g</src>
 	</media>
 	<media>
 		<title>&amp;quot;Marmara FM&amp;quot; Canlı Yayın</title>
@@ -146,12 +158,6 @@
 	</media>
 	<media>
 		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
-		<thumb>https://i.ytimg.com/vi/FCmXwL6BSNo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>FCmXwL6BSNo</src>
-	</media>
-	<media>
-		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
 		<thumb>https://i.ytimg.com/vi/gJ1xBxlU54I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gJ1xBxlU54I</src>
@@ -163,6 +169,18 @@
 		<src>U9Rb5VnKB4U</src>
 	</media>
 	<media>
+		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/FCmXwL6BSNo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>FCmXwL6BSNo</src>
+	</media>
+	<media>
+		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/ay-Ww9b4wwE/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ay-Ww9b4wwE</src>
+	</media>
+	<media>
 		<title>Platonik Fm - En Güzel Arabesk ve Damar Şarkılar - Canlı Radyo Dinle - Radyo Dinle - Arabesk Damar</title>
 		<thumb>https://i.ytimg.com/vi/vrBbKh9kcMo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -170,9 +188,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/h7rF-8v7-_I/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/S60R7x7DXVM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>h7rF-8v7-_I</src>
+		<src>S60R7x7DXVM</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
@@ -191,5 +209,11 @@
 		<thumb>https://i.ytimg.com/vi/zZKUhqPZsmA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>zZKUhqPZsmA</src>
+	</media>
+	<media>
+		<title>[7/24] CANLI RAMAZAN ÖZEL 🔴 Ney Ve Kanun | Enstrümantal Fon Müzikleri</title>
+		<thumb>https://i.ytimg.com/vi/mWGbYxLjLLo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>mWGbYxLjLLo</src>
 	</media>
 </media>
