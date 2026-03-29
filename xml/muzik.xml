@@ -37,12 +37,6 @@
 		<src>k9rGo3THPlM</src>
 	</media>
 	<media>
-		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/9Q8VDxxcXJo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9Q8VDxxcXJo</src>
-	</media>
-	<media>
 		<title>&amp;quot;Marmara FM&amp;quot; Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/0aJ6y_laPDc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -194,9 +188,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/JIXEDp7w4CE/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/iqkioEg4PEk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JIXEDp7w4CE</src>
+		<src>iqkioEg4PEk</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
@@ -223,15 +217,15 @@
 		<src>bRrymb-2tB4</src>
 	</media>
 	<media>
-		<title>🔴 CANLI | Türkçe Pop Remix Radyo 🎶 7/24 Kesintisiz Hit Müzik</title>
-		<thumb>https://i.ytimg.com/vi/4d9yvIN9XHQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>4d9yvIN9XHQ</src>
-	</media>
-	<media>
 		<title>🔴 CANLI | 7/24 Psychedelic Anatolian Rock Radyo 🎸 | Türkçe Rock Canlı Radyo</title>
 		<thumb>https://i.ytimg.com/vi/SEmHGOyp9bE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>SEmHGOyp9bE</src>
+	</media>
+	<media>
+		<title>🔴 CANLI | Türkçe Pop Remix Radyo 🎶 7/24 Kesintisiz Hit Müzik</title>
+		<thumb>https://i.ytimg.com/vi/4d9yvIN9XHQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>4d9yvIN9XHQ</src>
 	</media>
 </media>
