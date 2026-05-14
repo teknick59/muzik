@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>Selena Gomez, Bruno Mars, Maroon 5, Ed Sheeran, Rihanna, Zayn, Adele, Dua Lipa 💎 Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/obJbLSDsBAY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>obJbLSDsBAY</src>
-	</media>
-	<media>
 		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
 		<thumb>https://i.ytimg.com/vi/fpq_oBDv_XM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,34 +13,40 @@
 		<src>dUz5Ed0EiOM</src>
 	</media>
 	<media>
+		<title>Selena Gomez, Bruno Mars, Maroon 5, Ed Sheeran, Rihanna, Zayn, Adele, Dua Lipa 💎 Billboard Hot 100</title>
+		<thumb>https://i.ytimg.com/vi/obJbLSDsBAY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>obJbLSDsBAY</src>
+	</media>
+	<media>
 		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
 		<thumb>https://i.ytimg.com/vi/Tk830xS9E6g/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Tk830xS9E6g</src>
 	</media>
 	<media>
-		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
-		<thumb>https://i.ytimg.com/vi/0rYKbMjtnMo/hqdefault_live.jpg</thumb>
+		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
+		<thumb>https://i.ytimg.com/vi/dfaR7TOTb_Q/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>0rYKbMjtnMo</src>
+		<src>dfaR7TOTb_Q</src>
 	</media>
 	<media>
-		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
-		<thumb>https://i.ytimg.com/vi/gxVBqr0EnpU/hqdefault.jpg</thumb>
+		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/ss_kTvRw8dA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>gxVBqr0EnpU</src>
-	</media>
-	<media>
-		<title>En İyi Türkçe Pop Remix Şarkılar | Canlı Radyo 7/24 Kesintisiz Remix Dinle | Türkçe Remix</title>
-		<thumb>https://i.ytimg.com/vi/ez7nTy7-K-k/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ez7nTy7-K-k</src>
+		<src>ss_kTvRw8dA</src>
 	</media>
 	<media>
 		<title>Psychedelic Anatolian Rock Canlı Yayın - Barış Manço, Erkin Koray, Selda Bağcan, Cem Karaca</title>
 		<thumb>https://i.ytimg.com/vi/JRQGif7Y7Kg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JRQGif7Y7Kg</src>
+	</media>
+	<media>
+		<title>En İyi Türkçe Pop Remix Şarkılar | Canlı Radyo 7/24 Kesintisiz Remix Dinle | Türkçe Remix</title>
+		<thumb>https://i.ytimg.com/vi/ez7nTy7-K-k/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ez7nTy7-K-k</src>
 	</media>
 	<media>
 		<title>Türkçe Deep House Canlı Radyo 7/24 Kesintisiz Dinle</title>
@@ -151,12 +151,6 @@
 		<src>O_-NjHABJIg</src>
 	</media>
 	<media>
-		<title>Summer Mix 2025 🍓 Best Popular Songs 2024 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
-		<thumb>https://i.ytimg.com/vi/d0P02Jo5dqQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>d0P02Jo5dqQ</src>
-	</media>
-	<media>
 		<title>Summer Mix 2026 🍓 Best Popular Songs 2026 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
 		<thumb>https://i.ytimg.com/vi/1WRWXOr-bwM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -175,6 +169,12 @@
 		<src>U9Rb5VnKB4U</src>
 	</media>
 	<media>
+		<title>Summer Mix 2026 🍓 Best Popular Songs 2026 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/cHjyNhCdk1o/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>cHjyNhCdk1o</src>
+	</media>
+	<media>
 		<title>Summer Mix 2024 🍓 Best Popular Songs 2024 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
 		<thumb>https://i.ytimg.com/vi/CAORY3_3fDM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -188,9 +188,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/4KTgwG-j1aQ/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/UqkSNrghZ_o/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>4KTgwG-j1aQ</src>
+		<src>UqkSNrghZ_o</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
