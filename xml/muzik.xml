@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/haHbJNvdBkQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>haHbJNvdBkQ</src>
+	</media>
+	<media>
 		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
 		<thumb>https://i.ytimg.com/vi/1DrVCxVxneQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -25,24 +31,6 @@
 		<src>obJbLSDsBAY</src>
 	</media>
 	<media>
-		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
-		<thumb>https://i.ytimg.com/vi/0rYKbMjtnMo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>0rYKbMjtnMo</src>
-	</media>
-	<media>
-		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/env6ujwXPIE/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>env6ujwXPIE</src>
-	</media>
-	<media>
-		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/WVfklA_-g4g/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>WVfklA_-g4g</src>
-	</media>
-	<media>
 		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
 		<thumb>https://i.ytimg.com/vi/haHbJNvdBkQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -50,7 +38,7 @@
 	</media>
 	<media>
 		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
-		<thumb>https://i.ytimg.com/vi/LIDWGTDMg_c/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/LIDWGTDMg_c/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>LIDWGTDMg_c</src>
 	</media>
@@ -194,9 +182,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/cxUexIC6Lbw/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/UUJIpoZo6n8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>cxUexIC6Lbw</src>
+		<src>UUJIpoZo6n8</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
