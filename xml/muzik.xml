@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>Selena Gomez, Bruno Mars, Maroon 5, Ed Sheeran, Rihanna, Zayn, Adele, Dua Lipa 💎 Billboard Hot 100</title>
+		<thumb>https://i.ytimg.com/vi/obJbLSDsBAY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>obJbLSDsBAY</src>
+	</media>
+	<media>
 		<title>Ed Sheeran, Rihanna, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars, Maroon 5 🎶 Billboard Hot 100</title>
 		<thumb>https://i.ytimg.com/vi/huXNpJaL3EQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>huXNpJaL3EQ</src>
-	</media>
-	<media>
-		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/dsy1xqFFuaw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>dsy1xqFFuaw</src>
-	</media>
-	<media>
-		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
-		<thumb>https://i.ytimg.com/vi/0rYKbMjtnMo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>0rYKbMjtnMo</src>
-	</media>
-	<media>
-		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
-		<thumb>https://i.ytimg.com/vi/1DrVCxVxneQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>1DrVCxVxneQ</src>
-	</media>
-	<media>
-		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/WG1iKo3edOE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>WG1iKo3edOE</src>
-	</media>
-	<media>
-		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/EwHfPCehpxU/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>EwHfPCehpxU</src>
 	</media>
 	<media>
 		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
@@ -43,10 +19,16 @@
 		<src>pWtw6FoK5Kg</src>
 	</media>
 	<media>
-		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/WG1iKo3edOE/hqdefault_live.jpg</thumb>
+		<title>Top Hits 2026 ✨ Ed Sheeran, Selena Gomez, Justin Bieber,The Weeknd, Bruno Mars,Rihanna, Shawn Mendez</title>
+		<thumb>https://i.ytimg.com/vi/0rYKbMjtnMo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>WG1iKo3edOE</src>
+		<src>0rYKbMjtnMo</src>
+	</media>
+	<media>
+		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/Se7Sq9nvRRw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Se7Sq9nvRRw</src>
 	</media>
 	<media>
 		<title>Psychedelic Anatolian Rock Canlı Yayın - Barış Manço, Erkin Koray, Selda Bağcan, Cem Karaca</title>
@@ -109,16 +91,16 @@
 		<src>0lWJs0MBnYY</src>
 	</media>
 	<media>
-		<title>POP Hits Mix Radio 1 - 24/7 Live - Best of Pop 2026 Songs | 2026 Pop Playlist | Hits Music</title>
-		<thumb>https://i.ytimg.com/vi/jtp6SpBI9W0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>jtp6SpBI9W0</src>
-	</media>
-	<media>
 		<title>Pop Music 2026 Mix 🎧 Live Radio 24/7 - Best New English Songs | HITS POP RADIO</title>
 		<thumb>https://i.ytimg.com/vi/BHRvPZRDNJ0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>BHRvPZRDNJ0</src>
+	</media>
+	<media>
+		<title>POP Hits Mix Radio 1 - 24/7 Live - Best of Pop 2026 Songs | 2026 Pop Playlist | Hits Music</title>
+		<thumb>https://i.ytimg.com/vi/jtp6SpBI9W0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>jtp6SpBI9W0</src>
 	</media>
 	<media>
 		<title>Slow Time Radyo Canlı Dinle - En Güzel Türkçe Slow Şarkılar 2026 | Aşk Şarkıları</title>
@@ -163,12 +145,6 @@
 		<src>O_-NjHABJIg</src>
 	</media>
 	<media>
-		<title>Summer Mix 2025 🍓 Best Popular Songs 2024 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
-		<thumb>https://i.ytimg.com/vi/bhQcvWRdm3s/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>bhQcvWRdm3s</src>
-	</media>
-	<media>
 		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
 		<thumb>https://i.ytimg.com/vi/dnpRUk2be84/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -181,16 +157,22 @@
 		<src>CAORY3_3fDM</src>
 	</media>
 	<media>
-		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
-		<thumb>https://i.ytimg.com/vi/sJ2rJoK6xvY/hqdefault_live.jpg</thumb>
+		<title>Summer Mix 2025 🍓 Best Popular Songs 2024 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/bhQcvWRdm3s/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>sJ2rJoK6xvY</src>
+		<src>bhQcvWRdm3s</src>
+	</media>
+	<media>
+		<title>Summer Mix 2025 🍓 Best Popular Songs 2025 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
+		<thumb>https://i.ytimg.com/vi/U9Rb5VnKB4U/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>U9Rb5VnKB4U</src>
 	</media>
 	<media>
 		<title>Summer Mix 2026 🍓 Best Popular Songs 2026 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
-		<thumb>https://i.ytimg.com/vi/LLiYhdwINeM/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/1WRWXOr-bwM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LLiYhdwINeM</src>
+		<src>1WRWXOr-bwM</src>
 	</media>
 	<media>
 		<title>Platonik Fm - En Güzel Arabesk ve Damar Şarkılar - Canlı Radyo Dinle - Radyo Dinle - Arabesk Damar</title>
@@ -200,9 +182,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/1RbinUHO83c/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/9rj0QwcUhqE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>1RbinUHO83c</src>
+		<src>9rj0QwcUhqE</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
