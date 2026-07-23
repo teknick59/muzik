@@ -7,18 +7,6 @@
 		<src>obJbLSDsBAY</src>
 	</media>
 	<media>
-		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
-		<thumb>https://i.ytimg.com/vi/dsy1xqFFuaw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>dsy1xqFFuaw</src>
-	</media>
-	<media>
-		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/pWtw6FoK5Kg/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>pWtw6FoK5Kg</src>
-	</media>
-	<media>
 		<title>Ed Sheeran, Rihanna, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars, Maroon 5 🎶 Billboard Hot 100</title>
 		<thumb>https://i.ytimg.com/vi/huXNpJaL3EQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -31,10 +19,16 @@
 		<src>0rYKbMjtnMo</src>
 	</media>
 	<media>
-		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
-		<thumb>https://i.ytimg.com/vi/peeBwnSw5c0/hqdefault_live.jpg</thumb>
+		<title>Ed Sheeran, Rihanna, Maroon 5, Zayn, Adele, Dua Lipa, Selena Gomez, Bruno Mars ✨ Billboard Hot 100</title>
+		<thumb>https://i.ytimg.com/vi/dsy1xqFFuaw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>peeBwnSw5c0</src>
+		<src>dsy1xqFFuaw</src>
+	</media>
+	<media>
+		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/pWtw6FoK5Kg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>pWtw6FoK5Kg</src>
 	</media>
 	<media>
 		<title>Rihanna, Bruno Mars, The Weeknd, Ed Sheeran, Adele, Dua Lipa, Maroon 5 🍁 Billboard Top 50 This Week</title>
@@ -43,8 +37,14 @@
 		<src>ubW5BSzan3U</src>
 	</media>
 	<media>
+		<title>Bruno Mars, Adele, Ed Sheeran, Maroon 5, Dua Lipa, Rihanna, The Weeknd ❣ Billboard Top 50 This Week</title>
+		<thumb>https://i.ytimg.com/vi/peeBwnSw5c0/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>peeBwnSw5c0</src>
+	</media>
+	<media>
 		<title>Dua Lipa, Coldplay, The Weeknd, Ed Sheeran, Maroon 5, Lady Gaga, Adele, Bruno Mars 🎃🎃 Pop Music 2026</title>
-		<thumb>https://i.ytimg.com/vi/enu4eP3fh9Q/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/enu4eP3fh9Q/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>enu4eP3fh9Q</src>
 	</media>
@@ -109,6 +109,12 @@
 		<src>0lWJs0MBnYY</src>
 	</media>
 	<media>
+		<title>Radyo Türkü Canlı Dinle - En Güzel Türküler ve Türk Halk Müziği | Akustik Türküler</title>
+		<thumb>https://i.ytimg.com/vi/zqi1IggVXCk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>zqi1IggVXCk</src>
+	</media>
+	<media>
 		<title>Slow Time Radyo Canlı Dinle - En Güzel Türkçe Slow Şarkılar 2026 | Aşk Şarkıları</title>
 		<thumb>https://i.ytimg.com/vi/XFLDi8EK7FQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -125,12 +131,6 @@
 		<thumb>https://i.ytimg.com/vi/Mo5preW8Ig0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Mo5preW8Ig0</src>
-	</media>
-	<media>
-		<title>Radyo Türkü Canlı Dinle - En Güzel Türküler ve Türk Halk Müziği | Akustik Türküler</title>
-		<thumb>https://i.ytimg.com/vi/zqi1IggVXCk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>zqi1IggVXCk</src>
 	</media>
 	<media>
 		<title>Damar Fm Canlı Dinle • Türkiye&amp;#39;nin En Damar Radyosu</title>
@@ -188,9 +188,9 @@
 	</media>
 	<media>
 		<title>Seher Yeli Fm İstek Yayını</title>
-		<thumb>https://i.ytimg.com/vi/rKBn_TsCIlw/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/z32uBp6YArE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>rKBn_TsCIlw</src>
+		<src>z32uBp6YArE</src>
 	</media>
 	<media>
 		<title>Ulus&amp;#39;dan Türküler - Canlı Radyo | 7/24 Radyo Dinle 2026</title>
