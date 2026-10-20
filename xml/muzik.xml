@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>seher yeli fm</title>
+		<thumb>https://i.ytimg.com/vi/knF2YTM9iu4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>knF2YTM9iu4</src>
+	</media>
+	<media>
 		<title>Dert FM – Canlı Yayın • En Çok Dinlenen Arabesk ve Damar Şarkılar</title>
 		<thumb>https://i.ytimg.com/vi/HVtFDo44LZc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
