@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>Pop Radyo Dinle 🔴 7/24 Canlı Yayın | En Yeni Türkçe Şarkılar</title>
-		<thumb>https://i.ytimg.com/vi/pAnOaerxoc4/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>pAnOaerxoc4</src>
-	</media>
-	<media>
 		<title>Psychedelic Anatolian Rock Canlı Yayın - Barış Manço, Erkin Koray, Selda Bağcan, Cem Karaca</title>
 		<thumb>https://i.ytimg.com/vi/JRQGif7Y7Kg/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>JRQGif7Y7Kg</src>
+	</media>
+	<media>
+		<title>Pop Radyo Dinle 🔴 7/24 Canlı Yayın | En Yeni Türkçe Şarkılar</title>
+		<thumb>https://i.ytimg.com/vi/pAnOaerxoc4/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>pAnOaerxoc4</src>
 	</media>
 	<media>
 		<title>Türkçe Pop Radyo Canlı Dinle - En Yeni Türkçe Pop Şarkılar 2026</title>
@@ -109,16 +109,16 @@
 		<src>zqi1IggVXCk</src>
 	</media>
 	<media>
-		<title>Kral Akustik TV | Online TV İzle | kralmuzik.com #kralpoptv</title>
-		<thumb>https://i.ytimg.com/vi/O_-NjHABJIg/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>O_-NjHABJIg</src>
-	</media>
-	<media>
 		<title>Kral Akustik Radyo - Canlı Radyo Dinle • | Online Radyo Dinle | Kralmuzik.com #canlıradyo</title>
 		<thumb>https://i.ytimg.com/vi/6He9sFxFv8Y/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>6He9sFxFv8Y</src>
+	</media>
+	<media>
+		<title>Kral Akustik TV | Online TV İzle | kralmuzik.com #kralpoptv</title>
+		<thumb>https://i.ytimg.com/vi/O_-NjHABJIg/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>O_-NjHABJIg</src>
 	</media>
 	<media>
 		<title>Summer Mix 2024 🍓 Best Popular Songs 2024 🍓Faded, Supergirl, A Sky Full Of Star, Perfect Cover</title>
@@ -149,12 +149,6 @@
 		<thumb>https://i.ytimg.com/vi/UoXPNB7zmxk/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>UoXPNB7zmxk</src>
-	</media>
-	<media>
-		<title>Avicii, Dua Lipa, Coldplay, Martin Garrix &amp;amp; Kygo, The Chainsmokers Style - Summer Vibes #48</title>
-		<thumb>https://i.ytimg.com/vi/FVUzP2da88k/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>FVUzP2da88k</src>
 	</media>
 	<media>
 		<title>Platonik Fm - En Güzel Arabesk ve Damar Şarkılar - Canlı Radyo Dinle - Radyo Dinle - Arabesk Damar</title>
