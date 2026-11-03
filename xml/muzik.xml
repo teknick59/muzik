@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>Pop Radyo Dinle 🔴 7/24 Canlı Yayın | En Yeni Türkçe Şarkılar</title>
-		<thumb>https://i.ytimg.com/vi/pAnOaerxoc4/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>pAnOaerxoc4</src>
-	</media>
-	<media>
-		<title>Psychedelic Anatolian Rock Canlı Yayın - Barış Manço, Erkin Koray, Selda Bağcan, Cem Karaca</title>
-		<thumb>https://i.ytimg.com/vi/JRQGif7Y7Kg/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>JRQGif7Y7Kg</src>
-	</media>
-	<media>
 		<title>Türkçe Pop Radyo Canlı Dinle - En Yeni Türkçe Pop Şarkılar 2026</title>
 		<thumb>https://i.ytimg.com/vi/BlNYYTVRBqE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>BlNYYTVRBqE</src>
 	</media>
 	<media>
+		<title>Pop Radyo Dinle 🔴 7/24 Canlı Yayın | En Yeni Türkçe Şarkılar</title>
+		<thumb>https://i.ytimg.com/vi/pAnOaerxoc4/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>pAnOaerxoc4</src>
+	</media>
+	<media>
 		<title>En İyi Türkçe Pop Remix Şarkılar | Canlı Radyo 7/24 Kesintisiz Remix Dinle | Türkçe Remix</title>
 		<thumb>https://i.ytimg.com/vi/ez7nTy7-K-k/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>ez7nTy7-K-k</src>
+	</media>
+	<media>
+		<title>Psychedelic Anatolian Rock Canlı Yayın - Barış Manço, Erkin Koray, Selda Bağcan, Cem Karaca</title>
+		<thumb>https://i.ytimg.com/vi/JRQGif7Y7Kg/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>JRQGif7Y7Kg</src>
 	</media>
 	<media>
 		<title>Anatolian Rock Radyo Canlı Yayın - Erkin Koray, Barış Manço, Cem Karaca, Selda Bağcan</title>
